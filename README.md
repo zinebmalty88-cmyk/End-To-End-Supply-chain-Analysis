@@ -132,12 +132,12 @@ To provide a comprehensive view of the business, two dashboards were developed:
 - **Commercial Performance Overview**: focuses on high-level metrics such as sales, revenue, customer behavior, and the alignment between production and demand.
 
 You can explore the dashboard here:  
-![Commercial Dashboard](Commercial%20Dashboard.png)
+![Commercial Dashboard](images/Commercial%20Dashboard.png)
 
 - **Operational Efficiency Analysis**: focuses on internal operations including inventory performance, logistics, supplier lead time, and product quality.
 
 You can explore the dashboard here:  
-![Operational Dashboard](Operational%20Dashboard.png)
+![Operational Dashboard](images/Operational%20Dashboard.png)
 
 **Note**: An interactive navigation button is available at the top of the dashboard, allowing users to switch seamlessly between the Commercial and Operational views.
 
