@@ -34,12 +34,33 @@ Before starting the analysis, the dataset was carefully cleaned transformed usin
 
 ---
 
+### Data Consistency 
+
+- Verified consistency across categorical fields such as:
+  - Product Category
+  - Gender
+  - Supplier
+  - Carrier
+  - Transportation Mode
+ 
+---
+
 ###  Removing Duplicates
 
 - No duplicate records are detected across SKU and product level data.
 
 ---
 
+### Data Handling Decisions
+
+To ensure consistency and maintain data integrity:
+
+- *Revenue* was kept as provided in the dataset, as it likely reflects real business adjustments beyond simple calculations.
+- *Availability* was treated as a percentage representing stock availability.
+- A total of *46 records* were identified where *manufacturing lead time exceeds total lead time*, which is logically inconsistent since manufacturing should be a component of the total lead time.
+- An *adjusted lead time metric* was created to handle inconsistencies and ensure logical coherence in the analysis.
+- This adjustment allowed for more reliable evaluation of supplier performance and operational efficiency.
+  
 ###  Final Dataset Readiness
 
 After cleaning and transformation, the dataset was:
@@ -47,7 +68,7 @@ After cleaning and transformation, the dataset was:
 - Free from inconsistencies and duplicates
 - Ready for visualization and dashboard development
 
-## Analysis 
+## Data Analysis & Insights
 
 ###  Sales and Revenue by Product & Customer Demographics
 
