@@ -142,7 +142,7 @@ You can explore the dashboard here:
 - **Operational Efficiency Analysis**: focuses on internal operations including inventory performance, logistics, supplier lead time, and product quality.
 
 You can explore the dashboard here:  
-🔗 [View Interactive Dashboard](https://public.tableau.com/views/End-To-End-Supply-Chain-Analysis/OperationalDashboard)
+🔗 [View Interactive Dashboard](https://public.tableau.com/views/End-To-End-Supply-Chain-Analysis5/OperationalDashboard)
 
 ![Operational Dashboard](images/Operational%20Dashboard.png)
 
@@ -170,7 +170,7 @@ Customer demographic analysis shows that female customers contribute significant
 
 The operational performance indicators provide a clear overview of supply chain efficiency:
 
-- Stock Availability (10.36%) indicates relatively low inventory coverage, suggesting potential risks of stockouts and the need for improved inventory planning.
+- Stock Availability (48.40%) indicates more than half products are not available , suggesting potential risks of stockouts , loss sales and the need for improved inventory planning.
 
 - Lead Time (16 days) reflects the overall time required from supplier to delivery. This duration highlights opportunities to optimize supplier coordination and internal processing.
 
