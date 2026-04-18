@@ -73,6 +73,8 @@ After cleaning and transformation, the dataset was:
 
 ## Data Analysis & Insights
 
+All analyses were conduxted using **Pivot Tables** to efficiently summarize and explore the data 
+
 ###  Sales and Revenue by Product & Customer Demographics
 
 - Skincare is the top-performing category, contributing **44.97%** of total sales, indicating strong and consistent customer demand.
