@@ -170,7 +170,7 @@ Customer demographic analysis shows that female customers contribute significant
 
 The operational performance indicators provide a clear overview of supply chain efficiency:
 
-- Stock Availability (48.40%) indicates more than half products are not available , suggesting potential risks of stockouts , loss sales and the need for improved inventory planning.
+- Stock Availability (48.40%) indicates more than half products are not available , suggesting risks of stockouts , loss sales and the need for improved inventory planning.
 
 - Lead Time (16 days) reflects the overall time required from supplier to delivery. This duration highlights opportunities to optimize supplier coordination and internal processing.
 
