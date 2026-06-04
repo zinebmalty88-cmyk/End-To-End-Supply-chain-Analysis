@@ -137,14 +137,14 @@ To provide a comprehensive view of the business, two dashboards were developed:
 - **Commercial Performance Overview**: focuses on high-level metrics such as sales, revenue, customer behavior, and the alignment between production and demand.
 
 You can explore the dashboard here:  
-🔗 [View Interactive Dashboard](https://public.tableau.com/views/End-To-End-Supply-Chain-Analysis/CommercialDashboard)
+🔗 [View Interactive Dashboard](https://public.tableau.com/app/profile/zineb.malty/viz/End-to-EndSupplyChainAnalysis/Dashboard8)
 
 ![Commercial Dashboard](images/Commercial%20Dashboard.png)
 
 - **Operational Efficiency Analysis**: focuses on internal operations including inventory performance, logistics, supplier lead time, and product quality.
 
 You can explore the dashboard here:  
-🔗 [View Interactive Dashboard](https://public.tableau.com/views/End-To-End-Supply-Chain-Analysis5/OperationalDashboard)
+🔗 [View Interactive Dashboard](https://public.tableau.com/app/profile/zineb.malty/viz/End-to-EndSupplyChainAnalysis/Dashboard8)
 
 ![Operational Dashboard](images/Operational%20Dashboard.png)
 
