@@ -146,7 +146,7 @@ You can explore the dashboard here:
 You can explore the dashboard here:  
 🔗 [View Interactive Dashboard](https://public.tableau.com/app/profile/zineb.malty/viz/End-to-EndSupplyChainAnalysis/Dashboard8)
 
-![Operational Dashboard][(Images/Operational%20Dashboard(2)%20.png)](https://github.com/zinebmalty88-cmyk/End-To-End-Supply-chain-Analysis/blob/main/Images/Operational%20Dashboard%20(2).png?raw=true)
+![Operational Dashboard](https://github.com/zinebmalty88-cmyk/End-To-End-Supply-chain-Analysis/blob/main/Images/Operational%20Dashboard%20(2).png?raw=true)
 
 **Note**: An interactive navigation button is available at the top of the dashboard, allowing users to switch seamlessly between the Commercial and Operational views.
 
