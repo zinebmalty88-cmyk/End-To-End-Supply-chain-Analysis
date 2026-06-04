@@ -139,14 +139,14 @@ To provide a comprehensive view of the business, two dashboards were developed:
 You can explore the dashboard here:  
 🔗 [View Interactive Dashboard](https://public.tableau.com/app/profile/zineb.malty/viz/End-to-EndSupplyChainAnalysis/Dashboard8)
 
-![Commercial Dashboard](images/Commercial%20Dashboard.png)
+![Commercial Dashboard](Images/Commercial%20Dashboard(2).png)
 
 - **Operational Efficiency Analysis**: focuses on internal operations including inventory performance, logistics, supplier lead time, and product quality.
 
 You can explore the dashboard here:  
 🔗 [View Interactive Dashboard](https://public.tableau.com/app/profile/zineb.malty/viz/End-to-EndSupplyChainAnalysis/Dashboard8)
 
-![Operational Dashboard](images/Operational%20Dashboard.png)
+![Operational Dashboard](Images/Operational%20Dashboard(2).png)
 
 **Note**: An interactive navigation button is available at the top of the dashboard, allowing users to switch seamlessly between the Commercial and Operational views.
 
