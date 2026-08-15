@@ -3,19 +3,13 @@ End-to-end supply chain analysis project combining sales, production, inventory,
 
 ## Objective
 
-- Identify which product categories generate the highest revenue and sales  
+- Analyze commercial performance
 
-- Determine Which categories are the most and least profitable
+- Evaluate inventory performance
 
-- Analyze how efficient is the supply chain in terms of lead time, shipping time, and inventory turnover  
+- Analyze logistics and transportation 
 
-- Determine Which carriers and transportation modes are the most costly or time-consuming  
-
-- Identify if there are quality issues reflected in defect rates, and how do they vary across products  
-
-- Determine How well is inventory managed, and which categories face stock availability issues
-
-- Determine the main cost drivers in the supply chain, and where can optimization be applied?
+- I5. Identify business recommendations
 
 ## Dataset Description
 
