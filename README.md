@@ -9,15 +9,13 @@ End-to-end supply chain analysis project combining sales, production, inventory,
 
 - Analyze logistics and transportation 
 
-- I5. Identify business recommendations
+- Identify business recommendations
 
 ## Dataset Description
 
-This project uses a real-world dataset collected from a Fashion and Beauty startup, focusing on the supply chain of makeup and personal care products.
-
 The dataset used is the **Supply Chain Dataset published by Amir Motefaker**, which simulates the operations of a mid-size beauty brand.
 
-The dataset consists of a single, structured table containing **100 SKUs (Stock Keeping Units)** representing beauty and personal care products.
+The dataset consists of a single, structured table containing **100 SKUs (Stock Keeping Units)** representing beauty andpersonal care products.
 
 It provides a comprehensive view of supply chain activities, making it a strong foundation for analyzing both business performance and operational efficiency.
 
@@ -71,12 +69,13 @@ All analyses were conduxted using **Pivot Tables** to efficiently summarize and 
 
 ###  Sales and Revenue by Product & Customer Demographics
 
-- Skincare is the top-performing category, contributing **44.97%** of total sales, indicating strong and consistent customer demand.
+- Skincare is the best performing category with **44.97%** of total sales. This means customer demand is strong and steady.
+
 - Haircare follows with **29.53%**, showing solid but secondary performance.
 - Cosmetics represents the lowest share at **25.50%**, suggesting potential for growth or weaker positioning.
 
 - Female customers drive the highest revenue in Skincare (**17.04%**) and Cosmetics (**8.70%**), highlighting strong engagement from this segment.
-- The "Unknown" segment contributes significantly, especially in Haircare (**16.41%**), indicating missing or incomplete customer data that could impact segmentation accuracy, This may indicate a significant opportunity to improve customer data collection in this specific segment to better understand who is actually purchasing these products.
+- The "Unknown" segment contributes significantly, especially in Haircare (**16.41%**), indicating missing or incomplete customer data.
 - Male and Non-binary contributions remain moderate across all categories, with no dominant pattern.
 
 ###  Inventory and Production Performance by Product Category
@@ -150,13 +149,13 @@ You can explore the dashboard here:
 
 The commercial performance is summarized through two key indicators:
 
-- Total Revenue ($577,604.82) reflects the overall income generated from sales activities. This indicates strong business performance and highlights the effectiveness of pricing and sales strategies.
+- Total Revenue ($577,604.82) All Revenue from sales activity. This indicates strong business results and highlights the success of pricing and sales tactics.
 
-- Total Sales (46,099 units) represents the volume of products sold. A high sales volume suggests strong customer demand and market engagement across product categories.
+- Total Sales (46,099 units) shows the number of products sold. High sales volume implies strong customer demand and market engagement across all product categories.
 
-Skincare emerges as the leading product category, contributing 44.97% of total sales and generating the highest revenue, making it the core driver of business performance. Haircare follows with moderate performance, while Cosmetics remains the lowest-performing category, indicating potential growth opportunities.
+The primary product category is skincare, which contributes 44.97% of total sales and generates the highest revenue, thereby acting as the main driver of the company's business performance. Haircare provides moderate performance, with Cosmetics still the lowest performing category, indicating potential for growth..
 
-The profit analysis highlights strong performance in Skincare (219,399), making it the most profitable category and a key driver of business growth. Haircare (157,127) shows stable profitability with potential for further optimization through cost or demand improvements. Cosmetics (148,155), being the least profitable, may require strategic actions such as pricing adjustments, cost reduction, or marketing efforts to enhance its performance and align it with higher-performing categories.
+The profit analysis reveals that Skincare (219,399) is the most profitable category and a key driver of business growth. Haircare (157,127) has stable profitability with room for further optimization with cost/demand increase. Cosmetics ( 148,155 ) is the least profitable and may require strategic actions such as pricing, cost reduction or marketing activities to improve its performance to be in line with the higher performing categories
 
 Customer demographic analysis shows that female customers contribute significantly to revenue, particularly in Skincare. However, the high contribution of the "Unknown" segment, especially in Haircare, highlights a lack of complete customer data, which may limit accurate segmentation and targeted strategies.
 
@@ -166,21 +165,17 @@ Customer demographic analysis shows that female customers contribute significant
 
 The operational performance indicators provide a clear overview of supply chain efficiency:
 
-- Stock Availability (48.40%) indicates more than half products are not available , suggesting risks of stockouts , loss sales and the need for improved inventory planning.
+- Stock Availability (48.40%) More than 50% of products are not available. It indicates risks of stockouts, loss of sales and the need for improved inventory planning.
 
-- Lead Time (16 days) reflects the overall time required from supplier to delivery. This duration highlights opportunities to optimize supplier coordination and internal processing.
+- Lead Time (16 days) represents the total time from supplier to delivery. This period shows opportunities for better supplier coordination & internal processing.
 
-- Total Supply Chain Cost represents the overall operational expenses. Monitoring this KPI is essential to control logistics and production costs while maintaining service levels.
+- Total Supply Chain Cost Total operating cost. This KPI is a must-watch to keep logistics and production costs in check and service levels up.
 
-- Defect Rate (2.28%) shows a relatively low percentage of defective products, indicating acceptable quality performance, though continuous improvement is still recommended.
+- The Defect Rate (2.28%) demonstrates that the percentage of defective products is relatively low and the quality performance is acceptable. However, continuous improvement is still recommended.
 
-Inventory performance varies significantly across categories. Skincare achieves the highest inventory turnover, confirming strong demand and efficient stock movement, but it may also face stock availability risks due to high consumption. Cosmetics shows the lowest turnover, indicating slower-moving inventory and potential overstock issues, while Haircare remains moderate but affected by overproduction.
+Inventory performance varies significantly across categories. Skincare has the highest inventory turnover, indicating strong demand and fast stock movement. However, with overall stock availability at only 48.4%, its fast-moving inventory may increase the risk of stockouts, making timely replenishment essential. Cosmetics has the lowest inventory turnover, suggesting slower-moving inventory and a potential risk of excess stock. Haircare shows moderate inventory turnover, indicating an opportunity to better align inventory levels with demand
 
-From a logistics perspective, Carrier B stands out as the most expensive option, while Carrier A offers the lowest cost. However, when considering delivery performance, Carrier B provides the fastest shipping times, highlighting a trade-off between cost and speed.
-
-The stock availability analysis shows that Skincare has the highest availability, indicating better inventory coverage and lower risk of stockouts. Haircare follows with a moderate level of availability, suggesting relatively balanced inventory management. In contrast, Cosmetics records the lowest availability, which may lead to higher stockout risks and indicates a need for improved replenishment planning to meet demand effectively.
-
-Shipping time analysis reveals that transportation mode plays a key role in delivery performance. Road transport is generally the fastest, while sea and rail are slower, especially for certain carriers. This suggests that optimizing both carrier selection and transportation mode is essential for improving delivery efficiency.
+From a logistics perspective, Carrier B is the most expensive logistics wise and Carrier A is the cheapest. Carrier B is fastest in terms of delivery performance, but it’s also the most expensive. It’s a trade-off between cost and speed
 
 Finally, defect rate analysis indicates that Skincare and Haircare have higher defect levels compared to Cosmetics, which may impact customer satisfaction and increase operational costs, especially in high-volume categories like Skincare.
 
@@ -191,17 +186,15 @@ Based on the analysis, several strategic and operational improvements can be imp
 
 ###  Profit Optimization
 
-- Focus on expanding Skincare by reinforcing marketing and ensuring sufficient inventory to capitalize on its high profitability.
-- Improve Haircare performance by optimizing pricing strategies and controlling costs to increase margins.
-- Enhance Cosmetics profitability by reviewing pricing, reducing operational costs, and boosting demand through targeted promotions.
+- Skincare is the most profitable business. The company should grow its marketing and have enough stock to reap the benefits.
+- Increase Haircare performance through better pricing strategies and cost controls to drive margins.
+- Improve profitability of Enhance Cosmetics by assessing pricing and creating demand through strategic promotions.
 
 ---
 
 ###  Inventory Optimization
 
 - Increase safety stock levels for Skincare to prevent potential stockouts due to its high turnover.
-- Reduce excess inventory in Cosmetics by optimizing stock replenishment cycles and improving sales strategies.
-- Monitor Haircare inventory closely to avoid further accumulation caused by overproduction.
 
 ---
 
@@ -218,23 +211,12 @@ Based on the analysis, several strategic and operational improvements can be imp
 - Optimize carrier selection by balancing cost and delivery performance:
   - Use Carrier A for cost efficiency.
   - Use Carrier B for faster deliveries when speed is critical.
-- Review shipping strategies to reduce reliance on high-cost carriers without compromising service levels.
-
+  - 
 ---
 
 ### Stock Availability Optimization
 
-- Increase inventory levels for Cosmetics to reduce stockout risks and ensure better product availability for customers.  
-- Optimize demand forecasting and replenishment planning for Haircare to maintain a balanced inventory without overstocking.  
-- Align inventory strategy for Skincare with its strong availability by monitoring demand closely to avoid excess stock while sustaining high service levels.
-
----
-
-### Transportation Strategy
-
-- Prioritize road transportation for faster deliveries where feasible.
-- Limit the use of slower transportation modes (sea and rail) for time-sensitive products.
-- Align transportation mode selection with product type and urgency.
+-Align Skincare’s inventory strategy with its high turnover and availability by closely monitoring demand and replenishment to prevent stockouts while maintaining high service levels.
 
 ---
 
@@ -242,13 +224,11 @@ Based on the analysis, several strategic and operational improvements can be imp
 
 - Investigate high defect rates in Haircare and Skincare to identify root causes in production or handling.
 - Strengthen quality control processes, especially for high-volume products like Skincare.
-- Maintain current quality standards in Cosmetics as a benchmark for other categories.
-
 
 ##  Conclusion
 
-This project provided a comprehensive analysis of the end-to-end supply chain of a beauty and personal care company, combining both business performance and operational efficiency perspectives.
+This project established a comprehensive analysis of an end-to-end supply chain of beauty and personal care company, merging both business performance and operational efficiency perspectives.
 
-The analysis revealed strong demand for Skincare products, making it the key revenue driver, while also highlighting inefficiencies such as overstock risks, and variability in logistics performance. Additionally, opportunities were identified to optimize inventory management, and enhance transportation strategies.
+The analysis found that Skincare products are in high demand and represent the main revenue driver, but also inefficiencies such as risks of overstock and variability in logistics performance. Further opportunities were identified to improve inventory management, and improve transportation strategies.
 
-Overall, this project demonstrates how data-driven insights can be leveraged to identify inefficiencies, improve decision-making, and optimize supply chain performance in a real-world business context.
+Overall, this project demonstrates how data-driven insights can be used to identify inefficiencies, improve decision-making, and optimize supply chain performance in a real-world business context.
